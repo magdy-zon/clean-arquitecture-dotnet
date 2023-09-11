@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.Domain.Entities
 {
-	internal class AuditEntity
+	public class AuditEntity
 	{
 		public DateTime CreatedAt { get; set; }
 		public DateTime UpdatedAt { get; set; }

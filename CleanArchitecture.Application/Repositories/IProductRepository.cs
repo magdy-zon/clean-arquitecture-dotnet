@@ -10,6 +10,6 @@ namespace CleanArchitecture.Application.Repositories
 		ProductResponse GetProductById(int productId);
 		void DeleteProductById(int productId);
 		ProductResponse CreateProduct(CreateProductRequest request);
-		ProductResponse UpdateProduct(UpdateProductRequest request);
+		ProductResponse UpdateProduct(int productId, UpdateProductRequest request);
 	}
 }
