@@ -1,4 +1,4 @@
-# Clean architecture example with autpomapper
+# Clean architecture example with automapper
 > "Clean Architecture is an architectural pattern that emphasizes the separation of concerns and the use of loosely coupled components in developing software systems."
 
 > "Clean Architecture is a design pattern that separates an application into different layers based on their responsibility"
